@@ -9,7 +9,7 @@ from telegram.error import BadRequest
 
 ### CONFIGURATION ###
 BOT_TOKEN = "8621046349:AAGPQQKQuFN8HU4YqfBrUtQVc2lBbBTU42Q"
-ADMIN_ID = 123456789  # IMPORTANT: Change this to your numeric Telegram User ID
+ADMIN_ID = 1655373100  # IMPORTANT: Change this to your numeric Telegram User ID
 CHANNELS = ["@EarnBazaarrr", "@Sumanearningtrickk"] 
 UPI_ID = "testing8565@try"
 UPI_NAME = "suman"
